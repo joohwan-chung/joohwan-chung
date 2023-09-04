@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=14475DFF&size=40&center=true&vCenter=true&width=404&height=53&lines=Thank+you+for+visiting!;I'm+JooHwan)](https://github.com/joohwan-chung)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=19B3FFFF&size=40&center=true&vCenter=true&width=404&height=53&lines=Thank+you+for+visiting!;I'm+JooHwan)](https://github.com/joohwan-chung)
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoohwan-chung&count_bg=%2330326B&title_bg=%23555555&icon=tapas.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/joohwan-chung)
 
@@ -36,3 +36,5 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+
+</div>
