@@ -1,4 +1,4 @@
-<center>
+<div style="text-align: center;">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=19B3FFFF&size=40&center=true&vCenter=true&width=404&height=53&lines=Thank+you+for+visiting!;I'm+JooHwan)](https://github.com/joohwan-chung)
   
@@ -37,4 +37,4 @@
   <img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
 
-</center>
+</div>
