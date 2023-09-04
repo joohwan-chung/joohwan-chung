@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=19B3FFFF&size=40&center=true&vCenter=true&width=404&height=53&lines=Thank+you+for+visiting!;I'm+JooHwan)](https://github.com/joohwan-chung)
   
