@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/PHP5-777BB4?style=flat-square&logo=PHP&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP7-777BB4?style=flat-square&logo=PHP&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/codeIginter3-lightgrey?style=flat-square&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/codeIginter4-lightgrey?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/codeIgniter3-lightgrey?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/codeIgniter4-lightgrey?style=flat-square&logo=codeigniter&logoColor=white" />
   <br />
   <br />
 
