@@ -7,6 +7,18 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joohwan-chung&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joohwan-chung&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joohwan-chung&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ## 📚 Tech Stack
 
 ### 💻 Frontend
@@ -39,13 +51,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joohwan-chung&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joohwan-chung&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joohwan-chung&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
