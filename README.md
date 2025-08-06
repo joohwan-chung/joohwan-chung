@@ -12,9 +12,23 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joohwan-chung&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joohwan-chung&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joohwan-chung&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joohwan-chung&theme=onedark&row=1&column=7&no-frame=true&margin-w=10" alt="GitHub Trophy" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joohwan-chung/joohwan-chung/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -48,5 +62,3 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
----
